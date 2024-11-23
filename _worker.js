@@ -5,6 +5,8 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
+	'vpnas.cn:1234#CFnat-SJC',
+	'10.0.0.3:1234#CFnat-SJC',
 	'cf.090227.xyz#优选官方线路',
 	'icook.tw:2053#官方优选域名',
 ];
